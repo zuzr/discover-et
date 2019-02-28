@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a7434dca.chunk.css",
-  "main.js": "/static/js/main.33d71b5f.chunk.js",
-  "main.js.map": "/static/js/main.33d71b5f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/static/js/2.c88c70e5.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.7451b78d3ad43a2222f40dfe6a341b3f.js": "/precache-manifest.7451b78d3ad43a2222f40dfe6a341b3f.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.a7434dca.chunk.css.map": "/static/css/main.a7434dca.chunk.css.map"
+  "main.css": "/discover-et/static/css/main.a7434dca.chunk.css",
+  "main.js": "/discover-et/static/js/main.cbf25393.chunk.js",
+  "main.js.map": "/discover-et/static/js/main.cbf25393.chunk.js.map",
+  "runtime~main.js": "/discover-et/static/js/runtime~main.13bf580b.js",
+  "runtime~main.js.map": "/discover-et/static/js/runtime~main.13bf580b.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/discover-et/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/discover-et/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/discover-et/index.html",
+  "precache-manifest.78654967ae3a28394002b52d6dfa8b3e.js": "/discover-et/precache-manifest.78654967ae3a28394002b52d6dfa8b3e.js",
+  "service-worker.js": "/discover-et/service-worker.js",
+  "static/css/main.a7434dca.chunk.css.map": "/discover-et/static/css/main.a7434dca.chunk.css.map"
 }
