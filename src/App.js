@@ -14,14 +14,14 @@ class App extends Component {
                   <li><a class="navbar-item" href="#Home">Home</a></li>
                   <li><a class="navbar-item" href="#Mercury">Mercury</a></li>
                   <li><a class="navbar-item" href="#Venus">Venus</a></li>
-                  <li><a class="navbar-item" href="#Earth">Earth</a></li>
-                  <li><a class="navbar-item" href="#Mars">Mars</a></li>
-                  <li><a class="navbar-item" href="#Asteroid-Belt">Asteroid Belt</a></li>
-                  <li><a class="navbar-item" href="#Jupiter">Jupiter</a></li>
-                  <li><a class="navbar-item" href="#Saturn">Saturn</a></li>
-                  <li><a class="navbar-item" href="#Uranus">Uranus</a></li>
-                  <li><a class="navbar-item" href="#Neptune">Neptune</a></li>
-                  <li><a class="navbar-item" href="#Outer-Orbit">Outer Orbit</a></li>
+                  <li><a class="navbar-item" href="#page3">Earth</a></li>
+                  <li><a class="navbar-item" href="#page4">Mars</a></li>
+                  <li><a class="navbar-item" href="#page4">Asteroid Belt</a></li>
+                  <li><a class="navbar-item" href="#page4">Jupiter</a></li>
+                  <li><a class="navbar-item" href="#page4">Saturn</a></li>
+                  <li><a class="navbar-item" href="#page2">Uranus</a></li>
+                  <li><a class="navbar-item" href="#page2">Neptune</a></li>
+                  <li><a class="navbar-item" href="#page2">Outer Orbit</a></li>
                 </ul>
               </container>
             </nav>
