@@ -1,37 +1,37 @@
 .App {
-  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navbar {
+  background-color: #240090;
+}
+
+.navbar-brand {
+}
+
+.navbar-item {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #f8f8ff;
 }
 
 .page {
   height: 1000px;
-  width: 100%;
-  text-align: center;
+  background-color: #030032;
 }
 
 .content {
-  min-height: 100%;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
+  height: 100%;
+  width: 50%;
 }
 
 .blurb {
-  text-align: center;
-  border: red;
-}
-
-.App-link {
-  color: #61dafb;
+  font-family: 'Merriweather-Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #f8f8ff;
 }
 
 @keyframes App-logo-spin {
