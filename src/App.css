@@ -1,11 +1,5 @@
-.App {
-}
-
 .navbar {
   background-color: #240090;
-}
-
-.navbar-brand {
 }
 
 .navbar-item {
@@ -18,19 +12,21 @@
 
 .page {
   height: 1000px;
-  background-color: #030032;
 }
 
 .content {
-  height: 100%;
-  width: 50%;
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #030032;
 }
 
 .blurb {
   font-family: 'Merriweather-Sans', sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: #f8f8ff;
 }
 
